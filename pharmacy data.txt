@@ -3,3 +3,4 @@ Dispensing information: the different ways that someone may have gotten a refill
 You may have to collect data of every paitent's health care providers such as your primary care physician and your primary pharmacy
 Phone number of all your paitents
 the weight and height 
+Compliance data
